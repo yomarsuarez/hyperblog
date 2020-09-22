@@ -1,12 +1,23 @@
 body
 {
-    color:  blue;
+    color:  #333;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0 px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
 #container
 {
     width: 70%;
