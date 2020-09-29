@@ -8,3 +8,4 @@ Un blog increible para el curso de Git y Github de Platzi
 * El flujo de trabajo de GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor
+* Creado por el Platzi team
