@@ -9,3 +9,5 @@ Un blog increible para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor
 * Creado por el Platzi team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible par todas las edades
